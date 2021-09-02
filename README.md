@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+**Dhafit Farenza | Translator & Front-end web Dev**
+
+Hi, I'm Dhafit aka DevzFz! I'm a translator & front-end developer, currently I'm at [Nogisub](https://www.nogisub.com/), for translating some variaty show and many more from Japanese Idol grup named Nogizaka46.
+
+### Finds me
+
+**[Website](https://dhafit.xyz/)**<br />
+**[Twitter](https://twitter.com/dhafitf)**<br />
+**[Instagram](https://www.instagram.com/dhafitf)**
+
 <!--
 **dhafitf/dhafitf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
