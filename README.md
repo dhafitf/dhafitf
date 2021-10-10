@@ -10,6 +10,22 @@ Hi, I'm Dhafit aka DevzFz. I'm a translator & front-end developer, currently I'm
 **[Twitter](https://twitter.com/dhafitf)**<br />
 **[Instagram](https://www.instagram.com/dhafitf)**
 
+<table>
+   <td width="40%" valign="top">
+    <h3 align="center"> GitHub Status<h3>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dhafitf&theme=monokai&column=7&no-frame=true" />
+    </p>
+   </td>
+   <td width="40%" valign="top">
+    <h3 align="center"> Most used languages</h3>
+     <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafitf&theme=monokai&column=7&no-frame=true"/>
+     </p>
+  </td>
+</table>
+    
+
 <!--
 **dhafitf/dhafitf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
