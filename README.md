@@ -4,26 +4,16 @@
 
 Hi, I'm Dhafit aka DevzFz. I'm a translator & front-end developer, currently I'm at [Nogisub](https://www.nogisub.com/), for translating some variaty show and many more from Japanese Idol grup named Nogizaka46.
 
-### Finds me
+### Finds me on
 
 **[Website](https://dhafit.xyz/)**<br />
 **[Twitter](https://twitter.com/dhafitf)**<br />
 **[Instagram](https://www.instagram.com/dhafitf)**
 
-<table>
-   <td width="40%" valign="top">
-    <h3 align="center"> GitHub Status<h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dhafitf&theme=tokyonight&column=7&no-frame=true" />
-    </p>
-   </td>
-   <td width="40%" valign="top">
-    <h3 align="center"> Most used languages</h3>
-     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafitf&theme=tokyonight&column=7&no-frame=true"/>
-     </p>
-  </td>
-</table>
+<p><img src="https://github-readme-stats.vercel.app/api?username=dhafitf&show_icons=true&theme=tokyonight&locale=en" alt="dhafitf" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhafitf&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dhafitf" /></p>
+
     
 
 <!--
