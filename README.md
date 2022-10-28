@@ -6,7 +6,7 @@ Hi, I'm Dhafit aka DevzFz. I'm a translator & front-end developer, currently I'm
 
 ### Finds me on
 
-- [Website](https://dhafit.xyz/)
+- [Website](https://dhafit.vercel.app/)
 - [Twitter](https://twitter.com/dhafitf)
 - [Instagram](https://www.instagram.com/dhafitf)
 
